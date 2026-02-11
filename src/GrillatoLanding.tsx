@@ -20,7 +20,7 @@ export function GrillatoLanding() {
           🔥 Smash Burgers Artesanais
         </div>
 
-        <h1 className="text-4xl font-bold mb-4">Grillato Burgers</h1>
+        <h1 className="text-4xl font-bold mb-4">Grillato Hamburgueria</h1>
 
         <p className="text-xl text-gray-300 mb-10">
           Hambúrguer artesanal + batata crocante<br />
@@ -29,7 +29,7 @@ export function GrillatoLanding() {
 
         <div className="space-y-4">
           <a
-            href="COLE_AQUI_O_LINK_DO_ANOTA_AI"
+            href="https://pedido.anota.ai/loja/grillato-hamburgueria?f=msa"
             target="_blank"
             rel="noopener noreferrer"
             onClick={handleOrderClick}
@@ -39,7 +39,7 @@ export function GrillatoLanding() {
           </a>
 
           <a
-            href="https://wa.me/5543999999999"
+            href="wa.me/5543991681441"
             target="_blank"
             rel="noopener noreferrer"
             onClick={handleWhatsAppClick}
