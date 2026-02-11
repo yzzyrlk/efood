@@ -39,7 +39,7 @@ export function GrillatoLanding() {
           </a>
 
           <a
-            href="wa.me/5543991681441"
+            href="https://api.whatsapp.com/send/?phone=5543991681441&text&type=phone_number&app_absent=0"
             target="_blank"
             rel="noopener noreferrer"
             onClick={handleWhatsAppClick}
